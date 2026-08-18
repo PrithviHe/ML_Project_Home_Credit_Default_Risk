@@ -142,6 +142,13 @@ git commit -m "Resolve notebook conflict"
 > [!TIP]
 > When working with notebooks, it's a good idea to clear outputs before committing to reduce the chances of conflicts. You can do this in VS Code with the command palette: `Notebook: Clear All Outputs`.
 
+
+## Project Overview
+
+The **Home Credit Default Risk Prediction** project develops a machine learning–based solution to assess the likelihood of loan default and support more informed lending decisions. Using the Home Credit dataset, the project covers data cleaning, exploratory data analysis, preprocessing, model development, tuning, and evaluation.
+
+Several classification models were compared using metrics such as **ROC-AUC, recall, precision, and F2-score**, with a particular focus on identifying potential defaulters. The final solution generates a predicted default probability and uses a **42% probability threshold** to flag higher-risk applications for further review, supporting more consistent and risk-aware credit decisions.
+
 ## References & Further Reading
 
 - [**scikit-learn Documentation**](https://scikit-learn.org/stable/): the library used for modelling, with user guides and examples.
