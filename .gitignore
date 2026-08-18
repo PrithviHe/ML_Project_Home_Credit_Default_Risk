@@ -139,3 +139,6 @@ dmypy.json
 # nbdime Stuff
 .gitattributes
 
+# Ignore all data files
+data/*
+
