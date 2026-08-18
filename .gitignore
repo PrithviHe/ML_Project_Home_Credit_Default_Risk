@@ -136,9 +136,11 @@ dmypy.json
 # vscode Stuff
 .vscode
 
-# nbdime Stuff
-.gitattributes
-
-# Ignore all data files
+# Ignore all dataset files
 data/*
+data1/
+
+# Keep folder structure
+!data/.gitkeep
+!data1/.gitkeep
 
