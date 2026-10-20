@@ -1,6 +1,6 @@
 # Home Credit Default Risk Prediction
 
-**A machine learning exercise as a part of the bootcamp :**
+**A machine learning project predicting loan default risk, built as part of the bootcamp :**
 
 This project estimates how likely a loan applicant is to have trouble repaying. The goal is to help Home Credit's underwriting and credit risk team decide which applications need a closer look. It was built as a team project for the neuefische Data Science bootcamp by **Narayani & Prithvi**.
 
